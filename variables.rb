@@ -16,7 +16,7 @@ ag2 = gets.chomp.to_i #"to_i means conversion string to int variable"
 puts "#{nm2} Is #{ag2} Years Old."
 
 puts "Insert A Number"
-n1 = gets.chomp.to_f
+n1 = gets.chomp.to_f #"to_f means conversion string to float variable"
 puts "Insert Another Number"
 n2 = gets.chomp.to_f
 
